@@ -1,6 +1,6 @@
 # Mouse Saver
 
-I grew times of the barely functional auto-clickers that leave much to be desired! This was my own attempt at making a useful clicker for many different uses. It currently is Windows-only, and will likely stay that way.
+I grew tired of the barely functional auto-clickers that leave much to be desired! This was my own attempt at making a useful clicker for many different uses. It currently is Windows-only, and will likely stay that way.
 
 ## Copyright notice
 
